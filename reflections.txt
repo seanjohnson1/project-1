@@ -1,0 +1,21 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+What new skills have you learned?
+I have learned to use native HTML5 to structure a document.
+
+What has been easy?
+I found it easy to learn about and find new HTML 5 in the documentation provided.
+
+What has been difficult?
+The screen shot appears to be very dificult way to provide information about a mockup. Without being able to either ask the design question or provide a mockup with metadata (such as a layered PSD file), it was very hard to get the mockup to look 'identical' to the provided file. It appears to be a slightly zoomed file and may have a font (Georgia semibold) that is not a typical web safe font.
+
+How have you used the problem solving strategies from the first project to overcome challenges so far?
+I first exmained the requirements (the image) and develop a plan. Next, I aquired new knowledge through reading the suggested documentation. Then I excicuted my development plan and refined my solution throughout the process. Lastly, I validated my solution with the mockup. I used the growth mindset to both ensure a successful outcome and to expand my knowledge.
